@@ -1,0 +1,170 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+.main
+{
+	width: 100%;
+}
+
+.top
+{
+	height: 85px;
+	background-color: #3F5C9A;
+}
+
+.top input[type="submit"]
+{
+	background-color: #4267B2;
+	margin: 38px 0px;
+	width: 50px;
+	height: 22px;
+	border: 1px solid black;
+	color: white;
+}
+
+.container
+{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.logo
+{
+	float: left;
+	padding-top: 30px;
+}
+
+.form
+{
+	float: right;
+}
+
+label
+{
+	color: white;
+	font-size: 14px;
+}
+
+.text
+{
+	width: 170px;
+	height: 70px;
+	padding: 15px 4px;
+	float: left;
+}
+
+.text input
+{
+	width: 155px;
+	height: 20px;
+	border: 1px solid;
+	margin: 3px 0px;
+	padding-left: 2px;
+}
+
+.forgot
+{
+	color: #8FB4D8;
+	font-size: 14px;
+}
+
+.left
+{
+	width: 40%;
+	float: left;
+}
+
+.h
+{
+	font-size: 20px;
+	margin: 22px 0px;
+	color: #0E385F;
+	font-family: Arial;
+}
+
+.right
+{
+	width: 40%;
+	float: right;
+}
+
+.main-heading
+{
+	font-size: 40px;
+	font-family: Arial;
+	font-weight: bolder;
+	margin-top: 15px;
+	
+}
+
+.sub-heading
+{
+	font-size: 22px;
+	font-family: Arial;
+	margin: 5px 5px;
+}
+
+.right > input.half
+{
+	width: 45%;
+	height: 48px;
+	border-radius: 5px;
+	padding: 0px 10px;
+	border: 1px solid #BDC7D8;
+	font-size: 18px;
+	margin-top:  10px;
+	margin-bottom: 10px; 
+	margin-right:17px;
+	box-sizing: border-box;
+}
+
+.right > input.full
+{
+	width: 95%;
+	height: 40px;
+	border-radius: 5px;
+	padding: 0px 5px;
+	border: 1px solid #BDC7D8;
+	font-size: 18px;
+	margin: 5px 0px;
+	box-sizing: border-box;
+}
+
+.right select
+{
+	width: 60px;
+	height: 30px;
+	margin: 5px -1px;
+}
+.gender
+{
+	font-size: 20px;
+}
+
+.para
+{
+	font-size: 12px;
+
+}
+
+.right input[ type = "submit"]
+{
+	width: 200px;
+	height: 40px;
+	border-radius: 5px;
+	background: #64A651;
+	color: white;
+	font-size: 20px;
+	border : 1px solid #3B6E22;
+	margin: 10px 0px;
+
+
+}
